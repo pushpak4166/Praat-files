@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 20.138666666666666 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 20.138666666666666 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.6242913190219896 
+            text = "" 
+        intervals [2]:
+            xmin = 2.6242913190219896 
+            xmax = 3.603504032884471 
+            text = "sa" 
+        intervals [3]:
+            xmin = 3.603504032884471 
+            xmax = 4.582716746746954 
+            text = "re" 
+        intervals [4]:
+            xmin = 4.582716746746954 
+            xmax = 5.417927590923776 
+            text = "ga" 
+        intervals [5]:
+            xmin = 5.417927590923776 
+            xmax = 6.569942548409049 
+            text = "ma" 
+        intervals [6]:
+            xmin = 6.569942548409049 
+            xmax = 7.577955636208663 
+            text = "pa" 
+        intervals [7]:
+            xmin = 7.577955636208663 
+            xmax = 8.499567602196882 
+            text = "dha" 
+        intervals [8]:
+            xmin = 8.499567602196882 
+            xmax = 9.536381063933627 
+            text = "ni" 
+        intervals [9]:
+            xmin = 9.536381063933627 
+            xmax = 11.437205743784327 
+            text = "sa'" 
+        intervals [10]:
+            xmin = 11.437205743784327 
+            xmax = 12.387618083709677 
+            text = "ni" 
+        intervals [11]:
+            xmin = 12.387618083709677 
+            xmax = 13.338030423635027 
+            text = "dha" 
+        intervals [12]:
+            xmin = 13.338030423635027 
+            xmax = 14.317243137497508 
+            text = "pa" 
+        intervals [13]:
+            xmin = 14.317243137497508 
+            xmax = 15.296455851359989 
+            text = "ma" 
+        intervals [14]:
+            xmin = 15.296455851359989 
+            xmax = 16.24686819128534 
+            text = "ga" 
+        intervals [15]:
+            xmin = 16.24686819128534 
+            xmax = 17.168480157273557 
+            text = "re" 
+        intervals [16]:
+            xmin = 17.168480157273557 
+            xmax = 17.83088875782759 
+            text = "sa" 
+        intervals [17]:
+            xmin = 17.83088875782759 
+            xmax = 19.90451568130108 
+            text = "" 
+        intervals [18]:
+            xmin = 19.90451568130108 
+            xmax = 20.138666666666666 
+            text = "" 
