@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.610666666666667 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "swar" 
+        xmin = 0 
+        xmax = 13.610666666666667 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.8510106021733668 
+            text = "sa" 
+        intervals [2]:
+            xmin = 2.8510106021733668 
+            xmax = 3.5514461415609935 
+            text = "re" 
+        intervals [3]:
+            xmin = 3.5514461415609935 
+            xmax = 4.236654821396716 
+            text = "ga" 
+        intervals [4]:
+            xmin = 4.236654821396716 
+            xmax = 4.937090360784342 
+            text = "ma" 
+        intervals [5]:
+            xmin = 4.937090360784342 
+            xmax = 5.591845321516255 
+            text = "pa" 
+        intervals [6]:
+            xmin = 5.591845321516255 
+            xmax = 6.322734580007691 
+            text = "dha" 
+        intervals [7]:
+            xmin = 6.322734580007691 
+            xmax = 6.947035821635794 
+            text = "ni" 
+        intervals [8]:
+            xmin = 6.947035821635794 
+            xmax = 7.632244501471516 
+            text = "sa'" 
+        intervals [9]:
+            xmin = 7.632244501471516 
+            xmax = 8.256545743099618 
+            text = "re'" 
+        intervals [10]:
+            xmin = 8.256545743099618 
+            xmax = 8.896073844279627 
+            text = "ga'" 
+        intervals [11]:
+            xmin = 8.896073844279627 
+            xmax = 9.566055664563443 
+            text = "ma'" 
+        intervals [12]:
+            xmin = 9.566055664563443 
+            xmax = 10.494894097229645 
+            text = "pa'" 
+        intervals [13]:
+            xmin = 10.494894097229645 
+            xmax = 11.636908563622514 
+            text = "dha'" 
+        intervals [14]:
+            xmin = 11.636908563622514 
+            xmax = 13.610666666666667 
+            text = "" 

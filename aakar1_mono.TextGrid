@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 25.493333333333332 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 25.493333333333332 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8299791637704054 
+            text = "" 
+        intervals [2]:
+            xmin = 0.8299791637704054 
+            xmax = 2.0994424518167456 
+            text = "Sa" 
+        intervals [3]:
+            xmin = 2.0994424518167456 
+            xmax = 3.3279553112164293 
+            text = "aa         " 
+        intervals [4]:
+            xmin = 3.3279553112164293 
+            xmax = 4.80217074249605 
+            text = "Re" 
+        intervals [5]:
+            xmin = 4.80217074249605 
+            xmax = 6.1535348878357015 
+            text = "aa            " 
+        intervals [6]:
+            xmin = 6.1535348878357015 
+            xmax = 7.668700747761979 
+            text = "Ga" 
+        intervals [7]:
+            xmin = 7.668700747761979 
+            xmax = 8.979114464454975 
+            text = "aa           " 
+        intervals [8]:
+            xmin = 8.979114464454975 
+            xmax = 10.494280324381252 
+            text = "Ma" 
+        intervals [9]:
+            xmin = 10.494280324381252 
+            xmax = 11.968495755660873 
+            text = "aa                      " 
+        intervals [10]:
+            xmin = 11.968495755660873 
+            xmax = 13.524612044233805 
+            text = "Pa" 
+        intervals [11]:
+            xmin = 13.524612044233805 
+            xmax = 14.916926618220113 
+            text = "aa                                   " 
+        intervals [12]:
+            xmin = 14.916926618220113 
+            xmax = 16.55494376408636 
+            text = "Dha" 
+        intervals [13]:
+            xmin = 16.55494376408636 
+            xmax = 17.865357480779355 
+            text = "aa              " 
+        intervals [14]:
+            xmin = 17.865357480779355 
+            xmax = 19.42147376935229 
+            text = "Ni" 
+        intervals [15]:
+            xmin = 19.42147376935229 
+            xmax = 21.01854048657188 
+            text = "aa          " 
+        intervals [16]:
+            xmin = 21.01854048657188 
+            xmax = 22.615607203791466 
+            text = "Sa'" 
+        intervals [17]:
+            xmin = 22.615607203791466 
+            xmax = 24.253624349657713 
+            text = "aa           " 
+        intervals [18]:
+            xmin = 24.253624349657713 
+            xmax = 25.493333333333332 
+            text = "" 
